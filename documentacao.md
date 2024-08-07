@@ -6,7 +6,7 @@ Este documento apresenta capturas de tela e explicações sobre o caso de teste 
 ## Capturas de Tela
 
 ### Tela Principal
-![Tela de Registro]![image](https://github.com/user-attachments/assets/a0dc7f17-b935-448f-8149-bf208d924734)
+![image](https://github.com/user-attachments/assets/a0dc7f17-b935-448f-8149-bf208d924734)
 
 - Descrição: Tela principal do aplicativo de delivery.
 
